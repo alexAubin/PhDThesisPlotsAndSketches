@@ -23,6 +23,10 @@
 *.lib
 
 # Executables
-*.exe
-*.out
-*.app
+*.run
+
+# Logs, tabs, plots
+*.log
+*.tab
+*.root
+*.pdf
